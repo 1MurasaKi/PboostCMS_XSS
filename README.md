@@ -15,7 +15,7 @@ Link:https://gitee.com/hnaoyun/PbootCMS
 
 
 
-There is a cross site scripting vulnerability in the bootcms V3.2.5-20230421.
+There is a cross site scripting vulnerability in the pbootcms V3.2.5-20230421.
 
 In the data area of the backend, the name parameter can be submitted by constructing a JavaScript statement. When the administrator clicks on the system role, the script statement will be triggered, causing cross site script injection.
 
