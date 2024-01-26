@@ -20,3 +20,7 @@ There is a cross site scripting vulnerability in the POOTCMS system.
 In the data area of the backend, the name parameter can be submitted by constructing a JavaScript statement. When the administrator clicks on the system role, the script statement will be triggered, causing cross site script injection.
 
 The following is the process of reproducing vulnerabilities:
+![](https://github.com/1MurasaKi/PboostCMS_XSS/blob/main/1.png)
+![](https://github.com/1MurasaKi/PboostCMS_XSS/blob/main/2.png)
+![](https://github.com/1MurasaKi/PboostCMS_XSS/blob/main/3.png)
+![](https://github.com/1MurasaKi/PboostCMS_XSS/blob/main/4.png)
